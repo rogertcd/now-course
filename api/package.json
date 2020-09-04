@@ -21,7 +21,7 @@
     "morgan": "1.8.1",
     "pg": "6.1.5",
     "pg-hstore": "2.3.2",
-    "sequelize": "3.30.4",
+    "sequelize": "5.15.1",
     "subscriptions-transport-ws": "0.5.5",
     "uuid": "3.0.1"
   },
